@@ -1,22 +1,27 @@
-# p
+# ReadMEGenerator
 ## Description
-p
+To generate uique and easy to read README
 ![badge](https://img.shields.io/badge/license--brightorange)
 You can access more badges and their purposes at [shields.io](https://shields.io)
 ## Table of Contents
+  * [Usage](#usage)
   * [Questions](#questions)
   * [License](#license)
     
     
       
+## Usage
+  _Instructions for use:_
+  1. Create a README by using node
+      
 ## Questions
       
   _For further questions:_
-  p
+  No Contact
   
   _Contact Info:_
-  GitHub: [p](https://github.com/p)
-  Email: [p](mailto:p)
+  GitHub: [JSR5404](https://github.com/JSR5404)
+  Email: [myemail@gmail.com](mailto:myemail@gmail.com)
     
 ## License
       
